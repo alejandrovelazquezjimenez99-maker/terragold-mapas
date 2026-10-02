@@ -121,83 +121,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nombre": "Asentamiento de Setefilla (Mesa de Setefilla)",
-        "categoria": "ASENTAMIENTO",
-        "epoca": "Prerromano"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-5.4950, 37.7080]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nombre": "Oppidum de Osuna (Urso)",
-        "categoria": "ASENTAMIENTO",
-        "epoca": "Prerromano"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-5.1050, 37.2380]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nombre": "Villa Romana de Fuente Álamo (Puente Genil)",
-        "categoria": "ASENTAMIENTO",
-        "epoca": "Hispania Romana"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-4.7300, 37.4080]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nombre": "Asta Regia (Mesas de Asta)",
-        "categoria": "ASENTAMIENTO",
-        "epoca": "Hispania Romana"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-6.1550, 36.7570]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nombre": "Medina de Peñaflor (Celti)",
-        "categoria": "ASENTAMIENTO",
-        "epoca": "Al-Ándalus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-5.3450, 37.7070]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nombre": "Basílica de Vega del Mar (San Pedro Alcántara)",
-        "categoria": "ASENTAMIENTO",
-        "epoca": "Reino Visigodo"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-4.9850, 36.4760]
-      }
-    }
-  ]
-}
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
         "nombre": "Ciudad Califal de Medina Azahara (Córdoba)",
         "categoria": "BIC",
         "epoca": "Todas"
@@ -270,7 +193,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nombre": "Zona Arqueológica de Los Millares (Santa Fe de Mondújar, Almería)",
+        "nombre": "Zona Arqueológica de Los Millares (Almería)",
         "categoria": "BIC",
         "epoca": "Todas"
       },
@@ -315,59 +238,6 @@
         ]
       }
     },
-    {
-      "type": "Feature",
-      "properties": {
-        "nombre": "Oppidum Ibérico de Úbeda la Vieja (Salvatierra)",
-        "categoria": "ASENTAMIENTO",
-        "epoca": "Prerromano"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.4550, 38.0850]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nombre": "Ciudad Romana de Augusta Firma (Écija)",
-        "categoria": "ASENTAMIENTO",
-        "epoca": "Hispania Romana"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-5.0820, 37.5440]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nombre": "Madínat Ilbīra (Medina Elvira, Granada)",
-        "categoria": "ASENTAMIENTO",
-        "epoca": "Al-Ándalus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.7350, 37.2550]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nombre": "Yacimiento Fenopúnico del Cerro del Villar (Málaga)",
-        "categoria": "ASENTAMIENTO",
-        "epoca": "Prerromano"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-4.4850, 36.6850]
-      }
-    }
-  ]
-}
-{
-  "type": "FeatureCollection",
-  "features": [
     {
       "type": "Feature",
       "properties": {
@@ -467,59 +337,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nombre": "Yacimiento Fenicio del Cerro Salomón (Riotinto)",
-        "categoria": "ASENTAMIENTO",
-        "epoca": "Prerromano"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-6.5850, 37.6950]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nombre": "Enclave Minero-Industrial Romano (Cerro Muriano)",
-        "categoria": "ASENTAMIENTO",
-        "epoca": "Hispania Romana"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-4.7850, 37.9550]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nombre": "Yacimiento Visigodo de El Germo (Espiel)",
-        "categoria": "ASENTAMIENTO",
-        "epoca": "Reino Visigodo"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-5.0250, 38.1500]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nombre": "Castillo de Baños de la Encina (Burgalimar)",
-        "categoria": "ASENTAMIENTO",
-        "epoca": "Al-Ándalus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.7850, 38.1650]
-      }
-    }
-  ]
-}
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
         "nombre": "Zona Arqueológica de El Gandul (Alcalá de Guadaíra)",
         "categoria": "BIC",
         "epoca": "Todas"
@@ -567,7 +384,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nombre": "Yacimiento de Valencina de la Concepción (Edad del Cobre)",
+        "nombre": "Yacimiento de Valencina de la Concepción",
         "categoria": "BIC",
         "epoca": "Todas"
       },
@@ -588,35 +405,6 @@
         ]
       }
     },
-    {
-      "type": "Feature",
-      "properties": {
-        "nombre": "Teatro Romano y Foro de Hispalis (Sevilla Capital)",
-        "categoria": "ASENTAMIENTO",
-        "epoca": "Hispania Romana"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-5.9930, 37.3890]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nombre": "Oppidum de Mesa de Gandul (Asentamiento asociado)",
-        "categoria": "ASENTAMIENTO",
-        "epoca": "Prerromano"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-5.7860, 37.3420]
-      }
-    }
-  ]
-}
-{
-  "type": "FeatureCollection",
-  "features": [
     {
       "type": "Feature",
       "properties": {
@@ -668,7 +456,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nombre": "Entorno del Islote y Templo de Sancti Petri (San Fernando)",
+        "nombre": "Entorno del Islote y Templo de Sancti Petri",
         "categoria": "BIC",
         "epoca": "Todas"
       },
@@ -713,36 +501,6 @@
         ]
       }
     },
-    {
-      "type": "Feature",
-      "properties": {
-        "nombre": "Yacimiento Protohistórico del Cerro Macareno (La Rinconada)",
-        "categoria": "ASENTAMIENTO",
-        "epoca": "Prerromano"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-5.9250, 37.4850]
-      }
-    },
-    {
-      "type": "Feature",
-      "coordinates": [
-        -6.9150,
-        37.2650
-      ],
-      "properties": {
-        "epoca": "Prerromano",
-        "nombre": "Cabezo de San Pedro y Soto (Huelva Capital)",
-        "categoria": "ASENTAMIENTO"
-      },
-      "type": "Feature"
-    }
-  ]
-}
-{
-  "type": "FeatureCollection",
-  "features": [
     {
       "type": "Feature",
       "properties": {
@@ -842,36 +600,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nombre": "Ciudad Ibérica de Basti (Cerro del Santuario, Baza)",
-        "categoria": "ASENTAMIENTO",
-        "epoca": "Prerromano"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-2.7650, 37.5050]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nombre": "Yacimiento Romano de Iptuci (Prado del Rey, Cádiz)",
-        "categoria": "ASENTAMIENTO",
-        "epoca": "Hispania Romana"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-5.5650, 36.7850]
-      }
-    }
-  ]
-}
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "nombre": "Castillo de Burgalimar y Entorno (Baños de la Encina, Jaén)",
+        "nombre": "Castillo de Burgalimar (Baños de la Encina, Jaén)",
         "categoria": "BIC",
         "epoca": "Todas"
       },
@@ -895,7 +624,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nombre": "Parque Arqueológico de Torreparedones (Baena/Castro del Río)",
+        "nombre": "Parque Arqueológico de Torreparedones",
         "categoria": "BIC",
         "epoca": "Todas"
       },
@@ -919,7 +648,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nombre": "Castillo y Zona Arqueológica de Zahara de la Sierra (Cádiz)",
+        "nombre": "Castillo y Zona Arqueológica de Zahara de la Sierra",
         "categoria": "BIC",
         "epoca": "Todas"
       },
@@ -940,59 +669,6 @@
         ]
       }
     },
-    {
-      "type": "Feature",
-      "properties": {
-        "nombre": "Yacimiento Arqueológico de Ategua (Córdoba)",
-        "categoria": "ASENTAMIENTO",
-        "epoca": "Prerromano"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-4.6050, 37.7850]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nombre": "Villa Romana de Salpensa (Utrera, Sevilla)",
-        "categoria": "ASENTAMIENTO",
-        "epoca": "Hispania Romana"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-5.8150, 37.1550]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nombre": "Enclave Rural Visigodo de la Campiña",
-        "categoria": "ASENTAMIENTO",
-        "epoca": "Reino Visigodo"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-5.9850, 36.8750]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nombre": "Alquería Islámica de la Vega (Granada interior)",
-        "categoria": "ASENTAMIENTO",
-        "epoca": "Al-Ándalus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.5250, 37.2150]
-      }
-    }
-  ]
-}
-{
-  "type": "FeatureCollection",
-  "features": [
     {
       "type": "Feature",
       "properties": {
@@ -1020,7 +696,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nombre": "Entorno Monumental del Castillo de Santa Catalina (Jaén)",
+        "nombre": "Castillo de Santa Catalina (Jaén)",
         "categoria": "BIC",
         "epoca": "Todas"
       },
@@ -1044,7 +720,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nombre": "Conjunto Histórico y Arqueológico de Medina-Sidonia (Cádiz)",
+        "nombre": "Conjunto Histórico de Medina-Sidonia (Cádiz)",
         "categoria": "BIC",
         "epoca": "Todas"
       },
@@ -1068,48 +744,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nombre": "Yacimiento Minero-Industrial de Tharsis (Huelva)",
-        "categoria": "ASENTAMIENTO",
-        "epoca": "Prerromano"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-7.1450, 37.4850]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nombre": "Villa Romana de Torrox Costa (Málaga)",
-        "categoria": "ASENTAMIENTO",
-        "epoca": "Hispania Romana"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.9650, 36.7350]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nombre": "Asentamiento Medieval de Castril (Granada)",
-        "categoria": "ASENTAMIENTO",
-        "epoca": "Al-Ándalus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-2.7850, 37.8050]
-      }
-    }
-  ]
-}
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "nombre": "Conjunto Megalítico de los Dólmenes de El Pozuelo (Zalamea la Real, Huelva)",
+        "nombre": "Conjunto Megalítico de El Pozuelo (Huelva)",
         "categoria": "BIC",
         "epoca": "Todas"
       },
@@ -1133,7 +768,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nombre": "Ciudad Romana de Mellaria (Alcaracejos / Obejo, Córdoba)",
+        "nombre": "Ciudad Romana de Mellaria (Córdoba)",
         "categoria": "BIC",
         "epoca": "Todas"
       },
@@ -1157,7 +792,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nombre": "Yacimiento Arqueológico de Munigua (Villanueva del Río y Minas)",
+        "nombre": "Yacimiento Arqueológico de Munigua (Sevilla)",
         "categoria": "BIC",
         "epoca": "Todas"
       },
@@ -1181,7 +816,319 @@
     {
       "type": "Feature",
       "properties": {
-        "nombre": "Enclave Minero de Aznalcóllar (Sevilla)",
+        "nombre": "Asentamiento de Setefilla",
+        "categoria": "ASENTAMIENTO",
+        "epoca": "Prerromano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.4950, 37.7080]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Oppidum de Osuna",
+        "categoria": "ASENTAMIENTO",
+        "epoca": "Prerromano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.1050, 37.2380]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Villa Romana de Fuente Álamo",
+        "categoria": "ASENTAMIENTO",
+        "epoca": "Hispania Romana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.7300, 37.4080]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Asta Regia (Mesas de Asta)",
+        "categoria": "ASENTAMIENTO",
+        "epoca": "Hispania Romana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.1550, 36.7570]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Medina de Peñaflor",
+        "categoria": "ASENTAMIENTO",
+        "epoca": "Al-Ándalus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.3450, 37.7070]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Basílica de Vega del Mar",
+        "categoria": "ASENTAMIENTO",
+        "epoca": "Reino Visigodo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.9850, 36.4760]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Oppidum Ibérico de Úbeda la Vieja",
+        "categoria": "ASENTAMIENTO",
+        "epoca": "Prerromano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.4550, 38.0850]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Ciudad Romana de Augusta Firma (Écija)",
+        "categoria": "ASENTAMIENTO",
+        "epoca": "Hispania Romana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.0820, 37.5440]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Madínat Ilbīra (Medina Elvira)",
+        "categoria": "ASENTAMIENTO",
+        "epoca": "Al-Ándalus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.7350, 37.2550]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Cerro del Villar (Málaga)",
+        "categoria": "ASENTAMIENTO",
+        "epoca": "Prerromano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.4850, 36.6850]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Cerro Salomón (Riotinto)",
+        "categoria": "ASENTAMIENTO",
+        "epoca": "Prerromano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.5850, 37.6950]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Cerro Muriano (Córdoba)",
+        "categoria": "ASENTAMIENTO",
+        "epoca": "Hispania Romana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.7850, 37.9550]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Yacimiento Visigodo de El Germo",
+        "categoria": "ASENTAMIENTO",
+        "epoca": "Reino Visigodo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.0250, 38.1500]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Teatro Romano y Foro de Hispalis",
+        "categoria": "ASENTAMIENTO",
+        "epoca": "Hispania Romana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.9930, 37.3890]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Oppidum de Mesa de Gandul",
+        "categoria": "ASENTAMIENTO",
+        "epoca": "Prerromano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.7860, 37.3420]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Cerro Macareno (La Rinconada)",
+        "categoria": "ASENTAMIENTO",
+        "epoca": "Prerromano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.9250, 37.4850]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Cabezo de San Pedro (Huelva)",
+        "categoria": "ASENTAMIENTO",
+        "epoca": "Prerromano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.9150, 37.2650]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Ciudad Ibérica de Basti (Baza)",
+        "categoria": "ASENTAMIENTO",
+        "epoca": "Prerromano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.7650, 37.5050]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Yacimiento Romano de Iptuci",
+        "categoria": "ASENTAMIENTO",
+        "epoca": "Hispania Romana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.5650, 36.7850]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Yacimiento de Ategua (Córdoba)",
+        "categoria": "ASENTAMIENTO",
+        "epoca": "Prerromano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.6050, 37.7850]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Villa Romana de Salpensa",
+        "categoria": "ASENTAMIENTO",
+        "epoca": "Hispania Romana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.8150, 37.1550]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Enclave Rural Visigodo",
+        "categoria": "ASENTAMIENTO",
+        "epoca": "Reino Visigodo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.9850, 36.8750]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Alquería Islámica de la Vega",
+        "categoria": "ASENTAMIENTO",
+        "epoca": "Al-Ándalus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.5250, 37.2150]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Yacimiento Minero de Tharsis",
+        "categoria": "ASENTAMIENTO",
+        "epoca": "Prerromano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.1450, 37.4850]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Villa Romana de Torrox Costa",
+        "categoria": "ASENTAMIENTO",
+        "epoca": "Hispania Romana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.9650, 36.7350]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Asentamiento Medieval de Castril",
+        "categoria": "ASENTAMIENTO",
+        "epoca": "Al-Ándalus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.7850, 37.8050]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Enclave Minero de Aznalcóllar",
         "categoria": "ASENTAMIENTO",
         "epoca": "Prerromano"
       },
@@ -1193,7 +1140,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nombre": "Necrópolis Visigoda de Berrocal (Huelva)",
+        "nombre": "Necrópolis Visigoda de Berrocal",
         "categoria": "ASENTAMIENTO",
         "epoca": "Reino Visigodo"
       },
