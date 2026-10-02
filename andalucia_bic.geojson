@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Conjunto Arqueológico de Itálica (Santiponce)",
+        "categoria": "BIC",
+        "epoca": "Todas"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-6.0490, 37.4470],
+            [-6.0420, 37.4470],
+            [-6.0420, 37.4410],
+            [-6.0490, 37.4410],
+            [-6.0490, 37.4470]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Castillo de Alcalá de Guadaíra (Qal'at Jâbir)",
+        "categoria": "BIC",
+        "epoca": "Todas"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-5.8380, 37.3380],
+            [-5.8340, 37.3380],
+            [-5.8340, 37.3350],
+            [-5.8380, 37.3350],
+            [-5.8380, 37.3380]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Necrópolis Romana de Carmona",
+        "categoria": "BIC",
+        "epoca": "Todas"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-5.6510, 37.4720],
+            [-5.6460, 37.4720],
+            [-5.6460, 37.4680],
+            [-5.6510, 37.4680],
+            [-5.6510, 37.4720]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Baelo Claudia (Tarifa)",
+        "categoria": "BIC",
+        "epoca": "Todas"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-5.7780, 36.0880],
+            [-5.7720, 36.0880],
+            [-5.7720, 36.0830],
+            [-5.7780, 36.0830],
+            [-5.7780, 36.0880]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Yacimiento de Doña Blanca (Puerto de Santa María)",
+        "categoria": "BIC",
+        "epoca": "Todas"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-6.1620, 36.6270],
+            [-6.1570, 36.6270],
+            [-6.1570, 36.6240],
+            [-6.1620, 36.6240],
+            [-6.1620, 36.6270]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Santuario y Minas de Munigua (Villanueva del Río)",
+        "categoria": "BIC",
+        "epoca": "Todas"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-5.7380, 37.7140],
+            [-5.7340, 37.7140],
+            [-5.7340, 37.7100],
+            [-5.7380, 37.7100],
+            [-5.7380, 37.7140]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Asentamiento de Setefilla (Mesa de Setefilla)",
+        "categoria": "ASENTAMIENTO",
+        "epoca": "Prerromano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.4950, 37.7080]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Oppidum de Osuna (Urso)",
+        "categoria": "ASENTAMIENTO",
+        "epoca": "Prerromano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.1050, 37.2380]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Villa Romana de Fuente Álamo (Puente Genil)",
+        "categoria": "ASENTAMIENTO",
+        "epoca": "Hispania Romana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.7300, 37.4080]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Asta Regia (Mesas de Asta)",
+        "categoria": "ASENTAMIENTO",
+        "epoca": "Hispania Romana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.1550, 36.7570]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Medina de Peñaflor (Celti)",
+        "categoria": "ASENTAMIENTO",
+        "epoca": "Al-Ándalus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.3450, 37.7070]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Basílica de Vega del Mar (San Pedro Alcántara)",
+        "categoria": "ASENTAMIENTO",
+        "epoca": "Reino Visigodo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.9850, 36.4760]
+      }
+    }
+  ]
+}
